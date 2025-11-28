@@ -2087,3 +2087,17 @@
             }
         }
     
+
+        .Alart{
+            color: red;
+            text-align: center;
+            font-family: 'Times New Roman', Times, serif;
+
+        }
+
+         .Alart-1{
+            color: green;
+            text-align: center;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+
+        }
