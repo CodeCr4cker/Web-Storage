@@ -297,7 +297,25 @@
         'https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/trip/trip%20(37).jpg',
        'https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/trip/trip%20(38).jpg'
  ];
-  const TRIP_VIDEOS = ['https://www.w3schools.com/html/mov_bbb.mp4'];
+  const TRIP_VIDEOS = [
+    'https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/video/trip/trip%20(1).mp4',
+    'https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/video/trip/trip%20(2).mp4',
+    'https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/video/trip/trip%20(3).mp4',
+    'https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/video/trip/trip%20(4).mp4',
+    'https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/video/trip/trip%20(5).mp4',
+    'https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/video/trip/trip%20(6).mp4',
+    'https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/video/trip/trip%20(7).mp4',
+    'https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/video/trip/trip%20(8).mp4',
+    'https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/video/trip/trip%20(9).mp4',
+    'https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/video/trip/trip%20(10).mp4',
+    'https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/video/trip/trip%20(11).mp4',
+    'https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/video/trip/trip%20(12).mp4',
+    'https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/video/trip/trip%20(13).mp4',
+    'https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/video/trip/trip%20(14).mp4',
+    'https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/video/trip/trip%20(15).mp4',
+    'https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/video/trip/trip%20(16).mp4',
+    'https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/video/trip/trip%20(17).mp4'
+  ];
 
   // ========== STATE ==========
   let currentUser = null;
@@ -1444,5 +1462,6 @@
   window.closeVideoModal = closeVideoModal;
   window.openLightbox = openLightbox;
   window.closeLightbox = closeLightbox;
+
 
 })();
