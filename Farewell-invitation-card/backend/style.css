@@ -1737,57 +1737,7 @@
 
 
 
-
-
-
-         .gallery-nav {
-            display: flex;
-            justify-content: center;
-            gap: 20px;
-            margin: 40px 0;
-            flex-wrap: wrap;
-        }
-
-        .gallery-nav-btn {
-            background: linear-gradient(135deg, rgba(255, 215, 0, 0.25), rgba(255, 107, 107, 0.25));
-            border: 2px solid rgba(255, 215, 0, 0.4);
-            color: #ffd700;
-            padding: 15px 35px;
-            border-radius: 50px;
-            font-size: 18px;
-            font-weight: 600;
-            cursor: pointer;
-            transition: all 0.3s;
-            display: flex;
-            align-items: center;
-            gap: 10px;
-        }
-
-        .gallery-nav-btn:hover, .gallery-nav-btn.active {
-            background: linear-gradient(135deg, #746a3b, #ffa500);
-            color: #111;
-            transform: translateY(-3px);
-            box-shadow: 0 10px 30px rgba(255, 215, 0, 0.5);
-        }
-
-        .gallery-nav-btn.trip-btn {
-            background: linear-gradient(135deg, rgba(16, 185, 129, 0.25), rgba(5, 150, 105, 0.25));
-            border-color: rgba(16, 185, 129, 0.4);
-            color: var(--accent-green);
-        }
-
-        .gallery-nav-btn.trip-btn:hover, .gallery-nav-btn.trip-btn.active {
-            background: linear-gradient(135deg, #10b981, #059669);
-            color: white;
-        }
-
-        .gallery-tab {
-            display: none;
-        }
-
-        .gallery-tab.active {
-            display: block;
-        }
+/* trip setting */
 
         .trip-gallery {
             display: grid;
