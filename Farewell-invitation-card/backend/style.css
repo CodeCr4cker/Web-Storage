@@ -1750,8 +1750,8 @@
             position: relative;
             overflow: hidden;
             border-radius: 15px;
-            background: rgba(30, 30, 40, 0.9);
-            border: 2px solid rgba(16, 185, 129, 0.3);
+            background: #d4af37;
+            border: 2px solid #d4af37;
             transition: all 0.4s;
             cursor: pointer;
             height: 350px;
@@ -1760,7 +1760,7 @@
         .trip-card:hover {
             transform: scale(1.05);
             border-color: var(--accent-green);
-            box-shadow: 0 15px 40px rgba(16, 185, 129, 0.4);
+            box-shadow: 0 15px 40px #d4af37);
         }
 
         .trip-card img, .trip-card video {
@@ -1803,13 +1803,13 @@
             align-items: center;
             justify-content: center;
             background: rgba(255, 255, 255, 0.02);
-            border: 2px dashed rgba(212, 175, 55, 0.3);
+            border: 2px dashed rgba(182, 149, 43, 0.747);
             border-radius: 20px;
             padding: 3rem;
         }
 
         .gallery-lock.trip-lock {
-            border-color: rgba(16, 185, 129, 0.3);
+            border-color: #d4af37;
         }
 
         .gallery-lock.hidden {
