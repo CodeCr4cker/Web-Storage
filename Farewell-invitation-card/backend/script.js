@@ -844,7 +844,7 @@
 
   // ========== COUNTDOWN ==========
   function startCountdown() {
-    const countDownDate = new Date('dec 14, 2025 11:30:00').getTime();
+    const countDownDate = new Date('dec 09, 2025 11:25:00').getTime();
     const timer = setInterval(() => {
       const now = Date.now();
       const distance = countDownDate - now;
@@ -1465,3 +1465,4 @@
 
 
 })();
+
