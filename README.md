@@ -1,3 +1,3 @@
 # Web-Storage
 
-This repositories is working like a data base of the following named folder 📂 
+This repositories is working like a database of the following named folder 📂 
