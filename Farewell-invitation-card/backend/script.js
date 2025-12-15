@@ -297,7 +297,19 @@
   "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(64).jpg"
 ];
 
-  const VIDEO_LINKS = ['https://www.w3schools.com/html/mov_bbb.mp4'];
+  const VIDEO_LINKS = [ 
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/video/farewell/trial.mp4",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/video/farewell/farewell%20(1).mp4",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/video/farewell/farewell%20(2).mp4",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/video/farewell/farewell%20(3).mp4",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/video/farewell/farewell%20(4).mp4",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/video/farewell/farewell%20(5).mp4",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/video/farewell/farewell%20(6).mp4",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/video/farewell/farewell%20(7).mp4",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/video/farewell/farewell%20(8).mp4",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/video/farewell/farewell%20(9).mp4",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/video/farewell/farewell%20(10).mp4"
+                      ];
 
   // Trip placeholders (user should replace)
   const TRIP_PHOTOS = [  
@@ -1508,5 +1520,6 @@
 
 
 })();
+
 
 
