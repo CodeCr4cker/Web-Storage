@@ -231,29 +231,72 @@
         ];
 
    const PHOTO_LINKS = [
-            'https://cdn.jsdelivr.net/gh/CodeCr4cker/Web-Storage/Farewell-invitation-card/images/B%20L%20Academy(1).jpg',
-            'https://cdn.jsdelivr.net/gh/CodeCr4cker/Web-Storage/Farewell-invitation-card/images/B%20L%20Academy(2).jpg',
-            'https://cdn.jsdelivr.net/gh/CodeCr4cker/Web-Storage/Farewell-invitation-card/images/B%20L%20Academy(3).jpg',
-            'https://cdn.jsdelivr.net/gh/CodeCr4cker/Web-Storage/Farewell-invitation-card/images/B%20L%20Academy(4).jpg',
-            'https://cdn.jsdelivr.net/gh/CodeCr4cker/Web-Storage/Farewell-invitation-card/images/B%20L%20Academy(5).jpg',
-            'https://cdn.jsdelivr.net/gh/CodeCr4cker/Web-Storage/Farewell-invitation-card/images/B%20L%20Academy(6).jpg',
-            'https://cdn.jsdelivr.net/gh/CodeCr4cker/Web-Storage/Farewell-invitation-card/images/B%20L%20Academy(7).jpg',
-            'https://cdn.jsdelivr.net/gh/CodeCr4cker/Web-Storage/Farewell-invitation-card/images/B%20L%20Academy(8).jpg',
-            'https://cdn.jsdelivr.net/gh/CodeCr4cker/Web-Storage/Farewell-invitation-card/images/B%20L%20Academy(9).jpg',
-            'https://cdn.jsdelivr.net/gh/CodeCr4cker/Web-Storage/Farewell-invitation-card/images/B%20L%20Academy(10).jpg',
-            'https://cdn.jsdelivr.net/gh/CodeCr4cker/Web-Storage/Farewell-invitation-card/images/B%20L%20Academy(11).jpg',
-            'https://cdn.jsdelivr.net/gh/CodeCr4cker/Web-Storage/Farewell-invitation-card/images/B%20L%20Academy(12).jpg',
-            'https://cdn.jsdelivr.net/gh/CodeCr4cker/Web-Storage/Farewell-invitation-card/images/B%20L%20Academy(13).jpg',
-            'https://cdn.jsdelivr.net/gh/CodeCr4cker/Web-Storage/Farewell-invitation-card/images/B%20L%20Academy(14).jpg',
-            'https://cdn.jsdelivr.net/gh/CodeCr4cker/Web-Storage/Farewell-invitation-card/images/B%20L%20Academy(15).jpg',
-            'https://cdn.jsdelivr.net/gh/CodeCr4cker/Web-Storage/Farewell-invitation-card/images/B%20L%20Academy(16).jpg',
-            'https://cdn.jsdelivr.net/gh/CodeCr4cker/Web-Storage/Farewell-invitation-card/images/B%20L%20Academy(17).jpg',
-            'https://cdn.jsdelivr.net/gh/CodeCr4cker/Web-Storage/Farewell-invitation-card/images/B%20L%20Academy(18).jpg',
-            'https://cdn.jsdelivr.net/gh/CodeCr4cker/Web-Storage/Farewell-invitation-card/images/B%20L%20Academy(19).jpg',
-            'https://cdn.jsdelivr.net/gh/CodeCr4cker/Web-Storage/Farewell-invitation-card/images/B%20L%20Academy(20).jpg',
-            'https://cdn.jsdelivr.net/gh/CodeCr4cker/Web-Storage/Farewell-invitation-card/images/B%20L%20Academy(21).jpg',
-            'https://cdn.jsdelivr.net/gh/CodeCr4cker/Web-Storage/Farewell-invitation-card/images/B%20L%20Academy(22).jpg'
-        ];
+ "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(1).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(2).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(3).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(4).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(5).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(6).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(7).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(8).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(9).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(10).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(11).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(12).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(13).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(14).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(15).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(16).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(17).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(18).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(19).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(20).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(21).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(22).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(23).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(24).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(25).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(26).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(27).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(28).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(29).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(30).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(31).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(32).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(33).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(34).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(35).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(36).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(37).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(38).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(39).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(40).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(41).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(42).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(43).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(44).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(45).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(46).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(47).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(48).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(49).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(50).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(51).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(52).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(53).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(54).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(55).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(56).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(57).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(58).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(59).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(60).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(61).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(62).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(63).jpg",
+  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(64).jpg"
+];
+
   const VIDEO_LINKS = ['https://www.w3schools.com/html/mov_bbb.mp4'];
 
   // Trip placeholders (user should replace)
@@ -868,8 +911,8 @@
     const container = el('countdownContainer');
     if (!container) return;
     container.innerHTML = `
-      <div style="background: rgba(139, 92, 246, 0.15); border: 2px solid var(--accent-gold); border-radius: 20px; padding: 2rem; margin: 3rem 0;">
-        <h2 style="font-family: 'Playfair Display', serif; font-size: 2.5rem; color: var(--accent-gold); margin-bottom: 1rem;">🎉 The Big Day is Here! 🎉</h2>
+      <div style="background: rgba(139, 92, 246, 0.15); border: 2px solid var(--accent-gold); border-radius: 20px; padding: 2rem; margin: 3rem 0; height:27rem; width:23rem">
+         <img src=  "https://raw.githubusercontent.com/CodeCr4cker/Web-Storage/main/Farewell-invitation-card/images/Farewell/farewell%20(42).jpg" style="width:300px; height:200px;">
         <p style="font-size: 1.2rem; color: var(--text-light); margin: 0.5rem 0;">Hope you had an amazing time at the farewell!</p>
         <p style="margin-top: 1rem;">Thank you for being part of this incredible journey. May all your dreams come true! 💫</p>
       </div>
